@@ -44,5 +44,4 @@
 ```alias acontrol='a make:controller'```<br>
 ```alias at='a test'```<br>
 ```alias atf='a test --filter= '```<br>
-```alias avc='a view:clear'```<br>
-```alias acc='a cache:clear'```<br>
+```alias avc='a view:clear; a cache:clear; a config:clear'```<br>
