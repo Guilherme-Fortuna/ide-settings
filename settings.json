@@ -1,0 +1,77 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoSave": "onWindowChange",
+    "editor.lineHeight": 40,
+    "phpfmt.enable_auto_align": true,
+    "[php]": {
+        "editor.defaultFormatter": "kokororin.vscode-phpfmt",
+        "editor.formatOnSave": false
+    },
+    "editor.fontSize": 17,
+    "phpfmt.passes": [
+        "IndentTernaryConditions",
+        "PHPDocTypesToFunctionTypehint",
+        "ReindentAndAlignObjOps",
+        "ReplaceBooleanAndOr",
+        "SpaceBetweenMethods"
+    ],
+    "phpfmt.exclude": [
+        "GeneratePHPDoc",
+        "AutoPreincrement",
+        "SmartLnAfterCurlyOpen",
+        "PHPDocTypesToFunctionTypehint"
+    ],
+    "workbench.activityBar.location": "top",
+    "editor.stickyScroll.enabled": false,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "html-css-class-completion.CSSLanguages": [
+        "css",
+        "sass",
+        "scss"
+    ],
+    "workbench.colorTheme": "Best Themes - Brogrammer",
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "github.copilot.chat.inlineChatHint.enabled": true,
+    "github.copilot.advanced": {
+        "authProvider": "github"
+    },
+    "window.newWindowProfile": "Default",
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#009999",
+        "activityBar.background": "#009999",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#9f009f",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#e7e7e799",
+        "sash.hoverBorder": "#009999",
+        "statusBar.background": "#006666",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#009999",
+        "statusBarItem.remoteBackground": "#006666",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#006666",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#00666699",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "chat.editing.alwaysSaveWithGeneratedChanges": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "laravel_goto_view.folders": {
+        "default": "/resources/views",
+        "js": "/resources/js/Pages",
+        "vendor": "/resources/views/vendor"
+    },
+    "bladeFormatter.format.noMultipleEmptyLines": true,
+    "bladeFormatter.format.sortHtmlAttributes": "code-guide",
+    "bladeFormatter.format.wrapAttributes": "preserve-aligned",
+    "bladeFormatter.format.wrapLineLength": 6666,
+    "bladeFormatter.format.wrapAttributesMinAttrs": 99,
+    "editor.minimap.enabled": false,
+    "editor.minimap.autohide": true,
+}
