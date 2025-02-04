@@ -49,4 +49,5 @@
     ],
     "editor.fontFamily": "Cascadia Code",
     "vsicons.dontShowNewVersionMessage": true,
+    "editor.lineNumbers": "interval",    
 }
