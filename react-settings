@@ -1,0 +1,52 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoSave": "onWindowChange",
+    "editor.lineHeight": 40,
+    "editor.fontSize": 17,
+    "workbench.activityBar.location": "top",
+    "editor.stickyScroll.enabled": false,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "workbench.colorTheme": "Best Themes - Brogrammer",
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "github.copilot.chat.inlineChatHint.enabled": true,
+    "github.copilot.advanced": {
+        "authProvider": "github"
+    },
+    "window.newWindowProfile": "Default",
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#0f404e",
+        "activityBar.background": "#000",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#df00df",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#e7e7e799",
+        "sash.hoverBorder": "#000",
+        "statusBar.background": "#009999",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#000",
+        "statusBarItem.remoteBackground": "#009999",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#009999",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#00999999",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "chat.editing.alwaysSaveWithGeneratedChanges": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.minimap.enabled": false,
+    "editor.minimap.autohide": true,
+    "workbench.startupEditor": "none",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "phase",
+    "vscode_custom_css.imports": [
+        "file:///c:/Users/Guilherme/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.7/dist/updateHandler.js"
+    ],
+    "editor.fontFamily": "Cascadia Code",
+    "vsicons.dontShowNewVersionMessage": true,
+}
